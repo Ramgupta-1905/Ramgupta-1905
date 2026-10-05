@@ -24,8 +24,8 @@ I've solved **260+ problems on LeetCode** and continue to practice Data Structur
 
 I'm open to connecting with fellow developers, collaborating on interesting projects, and exploring software engineering opportunities. If you have an interesting idea or an opportunity where I could contribute, learn, and grow, feel free to reach out!
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ram-g190406)
-- **Portfolio:** [Explore my work](https://ramgupta-portfolio.netlify.app/)
+- **LinkedIn:** [https://www.linkedin.com/in/ram-g190406]https://www.linkedin.com/in/ram-g190406)
+- **Portfolio:** [https://ramgupta-portfolio.netlify.app/](https://ramgupta-portfolio.netlify.app/)
 - **Email:** [ramgupta1906@gmail.com](mailto:ramgupta1906@gmail.com)
 
 **Thanks for visiting my profile! I'm always looking to learn, build meaningful projects, and take on new challenges. Let's connect and build something worthwhile.** 🚀
